@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Coder-Jainish
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C Programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: The first computer bug was a real bug—a moth stuck in a Harvard Mark II computer in 1947!
+# 💻 Hirpara Jainish | Aspiring Programmer
 
-<!---
-Coder-Jainish/Coder-Jainish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 About Me
+- 🌱 **Currently Learning**: Python 
+- 🛠️ **Skills**: 
+  - **Languages**: C Programming
+  - **Interests**: Cybersecurity, Problem Solving, and Software Development  
+
+- 📫 **Reach Me**:  
+  - [LinkedIn](https://www.linkedin.com/) (https://www.linkedin.com/in/jainish-hirpara-784148335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - [Email](hirpara.jainish.prv@gmail.com)
+
+---
+
+### 🚀 My Projects
+1. **[python](https://github.com/Coder-Jainish/python)**: Python scripts and small utilities.  
+
+---
+
+### 🌟 Current Focus
+- Writing clean and efficient code in Python.  
+- Exploring penetration testing tools and techniques.  
+
+---
+
+### ✨ Fun Fact
+🌐 "Cybersecurity is not just a career; it's a mindset to protect and empower technology."
